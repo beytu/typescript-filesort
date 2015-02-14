@@ -1,0 +1,32 @@
+{
+  "name": "typescript-filesort",
+  "version": "0.0.1",
+  "description": "Node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beytu/typescript-filesort.git"
+  },
+  "keywords": [
+    "typescript",
+    "filesort"
+  ],
+  "author": "beytu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beytu/typescript-filesort/issues"
+  },
+  "homepage": "https://github.com/beytu/typescript-filesort",
+  "dependencies": {
+    "cloneextend": "0.0.3",
+    "typescript": "1.4.1"
+  },
+  "devDependencies": {
+    "chai": "^2.0.0",
+    "glob": "^4.3.5",
+    "mocha": "^2.1.0"
+  }
+}
